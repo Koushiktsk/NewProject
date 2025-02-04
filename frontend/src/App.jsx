@@ -9,11 +9,12 @@ import Cart from './pages/Cart'
 import Login from './pages/Login'
 import PlaceOrder from './pages/PlaceOrder'
 import Orders from './pages/Orders'
-import NavBar from './components/NavBar'
+import NavBar from './components/Navbar'
 import Footer from './components/Footer'
 import SearchBar from './components/SearchBar'
 import { ToastContainer, toast } from 'react-toastify';
 import Verify from './pages/Verify'
+
 
 
 const App = () => {
